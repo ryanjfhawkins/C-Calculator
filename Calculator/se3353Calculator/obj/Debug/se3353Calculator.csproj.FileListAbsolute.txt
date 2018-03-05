@@ -1,0 +1,9 @@
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\bin\Debug\se3353Calculator.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\bin\Debug\se3353Calculator.exe
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\bin\Debug\se3353Calculator.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\obj\Debug\se3353Calculator.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\obj\Debug\se3353Calculator.Form1.resources
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\obj\Debug\se3353Calculator.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\obj\Debug\se3353Calculator.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\obj\Debug\se3353Calculator.exe
+c:\users\ryan\documents\visual studio 2015\Projects\se3353Calculator\se3353Calculator\obj\Debug\se3353Calculator.pdb
