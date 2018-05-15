@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace se3353Calculator
 {
-    // Created by Ryan Hawkins for SE3353b Calculator Assignment
-    // Due March 5th, 2018 at 3:00pm
+    // Created by Ryan Hawkins
+    // March 5th, 2018 
     //
     // In RPN mode, the EQUALS(=) button has no function
     // In INFIX mode, the ENTER button has no function
     // Press CLR after switching modes to avoid bugs
     // RPN mode must follow the order: NUMBER(S) -> ENTER -> NUMBER(S) -> OPERATOR -> [NUMBER(S) -> OPERATOR]*
-    // INFIX mode must follow the order: NUMBER(S) -> OPERATOR -> NUMBER(S) -> [OPERATOR -> NUMBER(S)]* -> EQUALS(=))
+    // INFIX mode must follow the order: NUMBER(S) -> OPERATOR -> NUMBER(S) -> [OPERATOR -> NUMBER(S)]* -> EQUALS(=)
     // The []* notation means that whatever is in the bracket can be repeated 0 or more times
 
     public partial class Form1 : Form
